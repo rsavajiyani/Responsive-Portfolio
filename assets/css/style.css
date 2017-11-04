@@ -290,6 +290,7 @@ input[type=submit] {
   }
   header.container {
     padding: 0;
+    position: static;
   }
   #logo , .work, auth-image{
     width: 100%;
